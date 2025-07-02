@@ -88,20 +88,14 @@ After one-hot encoding categorical variables, a correlation matrix was computed.
 
 Memory usage before and after preprocessing:
 
-* **Original size**: \~3.8 MB
-* **Optimized size**: \~1.1 MB
+* **Original size**: \~5.6 MB
+* **Optimized size**: \~3.6 MB
 
 Optimizations were done using efficient data types and column reduction.
 
 ---
 
-## 📚 Conclusion
-
-This project highlights the strongest indicators of high income using visualization and correlation analysis. It serves as a solid foundation for predictive modeling or policy design focused on education, labor, and economic mobility.
-
----
-
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Pandas, NumPy
@@ -109,3 +103,11 @@ This project highlights the strongest indicators of high income using visualizat
 * Scikit-learn
 * Google Colab
 * KaggleHub
+
+---
+
+## Conclusion
+
+This project highlights the strongest indicators of high income using visualization and correlation analysis. It serves as a solid foundation for predictive modeling or policy design focused on education, labor, and economic mobility.
+
+
